@@ -14,16 +14,13 @@ A Django-based web application where students submit feedback and admins manage 
 - SQLite
 - Git & GitHub
 
-## 📷 Screenshots
-(Add screenshots of your app UI)
-
 ## 💻 How to Run
 ```bash
 git clone https://github.com/BAVYASRIM/student-feedback-system.git
 cd student-feedback-system
-python manage.py migrate
-python manage.py runserver
-
+py manage.py migrate
+py manage.py runserver
+```
 ## 📷 Screenshots
 
 ### 🏠 Home Page
@@ -35,5 +32,5 @@ python manage.py runserver
 ### 🔐 Admin Login
 ![Login](login.png)
 
-### 📊 Admin Dashboard
+## 📊 Admin Dashboard
 ![Dashboard](dashboard.png)
