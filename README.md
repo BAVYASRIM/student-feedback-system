@@ -23,3 +23,17 @@ git clone https://github.com/BAVYASRIM/student-feedback-system.git
 cd student-feedback-system
 python manage.py migrate
 python manage.py runserver
+
+## 📷 Screenshots
+
+### 🏠 Home Page
+![Home](home.png)
+
+### 📝 Feedback Form
+![Form](form.png)
+
+### 🔐 Admin Login
+![Login](login.png)
+
+### 📊 Admin Dashboard
+![Dashboard](dashboard.png)
