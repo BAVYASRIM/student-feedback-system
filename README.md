@@ -34,3 +34,7 @@ py manage.py runserver
 
 ## 📊 Admin Dashboard
 ![Dashboard](dashboard.png)
+
+## 🌐 Live Demo
+
+Check it out here 👉 [Live Project](https://student-feedback-dir8.onrender.com)
